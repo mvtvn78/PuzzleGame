@@ -1,3 +1,4 @@
 # PuzzleGame
 Big exercise for AI subject
-programming language : Python
+Programming language : Python
+Use : PyGame and AStart Algorithm
