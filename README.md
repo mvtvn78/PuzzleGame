@@ -1,2 +1,2 @@
 # PuzzleGame
-big exercise for AI subject
+Big exercise for AI subject
